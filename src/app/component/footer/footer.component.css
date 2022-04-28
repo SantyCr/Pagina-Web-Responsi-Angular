@@ -1,0 +1,33 @@
+footer{
+}
+
+footer h1{
+    text-align: center;
+    margin-top: 90px;
+    color: rgb(83, 80, 80);
+}
+
+footer ul{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+footer li{
+    margin-right: 70px;
+
+}
+
+@media screen  and ( max-width: 925px ) {
+
+    footer ul{
+        flex-direction: column;
+    }
+
+    footer li{
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    
+}
