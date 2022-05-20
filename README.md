@@ -1,7 +1,7 @@
 # Pagina web
 http://app-angular-site.s3-website-us-east-1.amazonaws.com/
 
-El sitio Web es total mente Resposi, actualemte estoy desarrollando paginas y apis para todo los Framework que manejo
+El sitio Web es total mente Resposi, actualmente estoy desarrollando paginas y apis para todo los Framework que manejo
 
 
 ![Captura](https://user-images.githubusercontent.com/77855047/169562243-dcf2d3d6-fa5a-4196-91f2-34ffbd5692f3.PNG)
