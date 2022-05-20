@@ -1,12 +1,14 @@
 # Pagina web
 http://app-angular-site.s3-website-us-east-1.amazonaws.com/
 
-
+El sitio Wweb es total mente resposi, actualemte estoy desarrolado paginas y apis para todo los Framework que manejo
 
 
 ![Captura](https://user-images.githubusercontent.com/77855047/169562243-dcf2d3d6-fa5a-4196-91f2-34ffbd5692f3.PNG)
-![procces](https://user-images.githubusercontent.com/77855047/169562290-d129c76b-1a07-4aa7-8caa-60d9efeda36c.PNG)![process1](https://user-![5](https://user-images.githubusercontent.com/77855047/169562401-c59added-7c44-4a1f-aeca-9378f652232c.PNG)
-images.githubusercontent.com/77855047/169562305-270653be-0534-4b5b-8791-faff49908cf0.PNG)![4](https://user-images.githubusercontent.com/77855047/169562371-b524ecdb-7816-47f8-b34a-a14e76ca2b95.PNG)
+![procces](https://user-images.githubusercontent.com/77855047/169562290-d129c76b-1a07-4aa7-8caa-60d9efeda36c.PNG)
+![process1](https://user-![5](https://user-images.githubusercontent.com/77855047/169562401-c59added-7c44-4a1f-aeca-9378f652232c.PNG)
+images.githubusercontent.com/77855047/169562305-270653be-0534-4b5b-8791-faff49908cf0.PNG)
+![4](https://user-images.githubusercontent.com/77855047/169562371-b524ecdb-7816-47f8-b34a-a14e76ca2b95.PNG)
 
 ![3](https://user-images.githubusercontent.com/77855047/169562363-5caf2581-be4c-467b-a476-f8ba3f419a31.PNG)
 
