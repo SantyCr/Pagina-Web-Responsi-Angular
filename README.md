@@ -10,6 +10,15 @@ http://app-angular-site.s3-website-us-east-1.amazonaws.com/
 ![4](https://user-images.githubusercontent.com/77855047/169707846-3d081c67-fabb-4a58-a11f-1686efd05594.PNG)
 ![5](https://user-images.githubusercontent.com/77855047/169707848-bc052503-f3df-4ba1-8cc7-546c3433218a.PNG)
 
+Sitio en Dispositivo movil
+
+![r](https://user-images.githubusercontent.com/77855047/169711081-eeb3c303-8bf0-4b6b-8844-4987637d71d3.PNG)
+![r1](https://user-images.githubusercontent.com/77855047/169711084-ce1a055b-333c-4609-806f-271acfb65797.PNG)
+![r2](https://user-images.githubusercontent.com/77855047/169711085-4a5f32fa-c9b6-4a79-a2f8-f14f7dc3d6a2.PNG)
+![r3](https://user-images.githubusercontent.com/77855047/169711086-a6eea09d-91d6-4739-92df-8a0d3e437c3a.PNG)
+![r4](https://user-images.githubusercontent.com/77855047/169711089-2c2ce962-f5a0-4875-adc6-be8e10dc6eb3.PNG)
+![r5](https://user-images.githubusercontent.com/77855047/169711091-c0b1bb76-aa7c-47e0-9147-cad7040eec0a.PNG)
+
 # AplicacionWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
