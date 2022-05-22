@@ -5,6 +5,10 @@ http://app-angular-site.s3-website-us-east-1.amazonaws.com/
 
 ![Captura](https://user-images.githubusercontent.com/77855047/169562243-dcf2d3d6-fa5a-4196-91f2-34ffbd5692f3.PNG)
 ![procces](https://user-images.githubusercontent.com/77855047/169562290-d129c76b-1a07-4aa7-8caa-60d9efeda36c.PNG)
+![process1](https://user-images.githubusercontent.com/77855047/169707834-961a8106-fcbb-4644-b0f3-868936a24c28.PNG)
+![3](https://user-images.githubusercontent.com/77855047/169707839-6e650ed2-e213-4d20-9fbb-8e8d8c3e0260.PNG)
+![4](https://user-images.githubusercontent.com/77855047/169707846-3d081c67-fabb-4a58-a11f-1686efd05594.PNG)
+![5](https://user-images.githubusercontent.com/77855047/169707848-bc052503-f3df-4ba1-8cc7-546c3433218a.PNG)
 
 # AplicacionWeb
 
